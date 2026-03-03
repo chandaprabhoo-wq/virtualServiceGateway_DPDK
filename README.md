@@ -1,4 +1,4 @@
-# vSG: Virtual Service Gateway Data Plane
+# Service Gateway Data Plane
 
 High-performance packet processing gateway with UBB metering, QoE analytics, and DPI integration.
 
